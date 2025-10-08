@@ -72,6 +72,8 @@ int main(){
     printf("----------CADASTRO CONCLUÍDO----------\n");
     printf("--------------------------------------\n");
 
+    // Resultados
+
 
     printf("\n--------------------------------------\n");
     printf("----------PRIMEIRA CARTA--------------\n");
@@ -82,8 +84,8 @@ int main(){
     printf("Código da carta: %s\n", codecity1);
     printf("Cidade: %s\n", namecity1);
     printf("População: %d\n", populcity1);
-    printf("Área: %f\n", areacity1);
-    printf("PIB: %f\n", pibcity1);
+    printf("Área: %.2f km²\n", areacity1);
+    printf("PIB: %.2f milhões\n", pibcity1);
     printf("Pontos Turístiicos: %d\n", pointturiscity1);
 
     printf("\n--------------------------------------\n");
@@ -95,8 +97,8 @@ int main(){
     printf("Código da carta: %s\n", codecity2);
     printf("Cidade: %s\n", namecity2);
     printf("População: %d\n", populcity2);
-    printf("Área: %f\n", areacity2);
-    printf("PIB: %f\n", pibcity2);
+    printf("Área: %.2f km²\n", areacity2);
+    printf("PIB: %.2f milhões\n", pibcity2);
     printf("Pontos Turístiicos: %d\n", pointturiscity2);
 
 
