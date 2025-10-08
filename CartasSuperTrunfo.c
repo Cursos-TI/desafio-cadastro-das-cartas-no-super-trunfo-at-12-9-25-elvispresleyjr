@@ -89,7 +89,7 @@ int main(){
     printf("Pontos Turístiicos: %d\n", pointturiscity1);
 
     printf("\n--------------------------------------\n");
-    printf("-----------SEGUNDA CARTA--------------\n");
+    printf("-----------SEGUNDA CARTA---------------\n");
     printf("--------------------------------------\n");
 
 
